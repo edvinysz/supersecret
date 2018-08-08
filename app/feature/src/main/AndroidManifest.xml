@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="lt.siulyk.siulyk.feature" >
+    package="lt.siulyk.siulyk.feature">
 
     <application>
-        <activity android:name=".MainActivity" >
-            <intent-filter android:order="1" >
+        <activity android:name=".MainActivity">
+            <intent-filter android:order="1">
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.BROWSABLE" />
